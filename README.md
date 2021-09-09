@@ -1,9 +1,9 @@
 <p align="center" 
   <a href="https://github.com/minji-o-j">
-      <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=240&section=header&text=𝐇𝐢, 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐌𝐢𝐧𝐣𝐢'𝐬 𝐆𝐢𝐭𝐡𝐮𝐛!!%F0%9F%A5%B0&fontSize=36&animation=fadeIn&fontAlignY=36">
+      <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=240&section=header&text=𝐇𝐢, 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 Ankster'𝐬 𝐆𝐢𝐭𝐡𝐮𝐛!!%F0%9F%A5%B0&fontSize=36&animation=fadeIn&fontAlignY=36">
   </a>
   <br> 
-  <a href="https://github.com/minji-o-j">
+  <a href="https://https://github.com/ElegantAnkster">
       <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminji-o-j&count_bg=%23000000&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true">
     </a>
 </p>
