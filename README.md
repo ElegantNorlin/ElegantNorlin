@@ -1,10 +1,10 @@
-<p align="center" 
+<!-- <p align="center" 
   <a href="https://https://github.com/ElegantAnkster">
       <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=240&section=header&text=𝐇𝐢, 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 Ankster'𝐬 𝐆𝐢𝐭𝐡𝐮𝐛!%F0%9F%A5%B0&fontSize=36&animation=fadeIn&fontAlignY=36">
   </a>
   <br> 
 </p>
-
+ -->
 <details> <!--<details>-->
 <summary> 🙋‍♀️ <b>My Github Stats</b>: </summary>
 <br>
