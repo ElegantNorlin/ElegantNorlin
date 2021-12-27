@@ -7,7 +7,8 @@
  -->
  # Welcome to Ankster's Github!
  <p align="center"> 
-  <input type="text" value="visitor"/><img src="https://profile-counter.glitch.me/ElegantAnkster/count.svg" />
+  <input type="text" value="visitor"/>
+  <img src="https://profile-counter.glitch.me/ElegantAnkster/count.svg" />
 </p>
 <details> <!--<details>-->
 <summary> 🙋‍♀️ <b>My Github Stats</b>: </summary>
