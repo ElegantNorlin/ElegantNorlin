@@ -6,6 +6,9 @@
 </p>
  -->
  # Welcome to Ankster's Github!
+ <p align="center"> 
+  <img src="https://profile-counter.glitch.me/ElegantAnkster/count.svg" />
+</p>
 <details> <!--<details>-->
 <summary> 🙋‍♀️ <b>My Github Stats</b>: </summary>
 <br>
