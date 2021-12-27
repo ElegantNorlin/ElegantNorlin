@@ -6,7 +6,6 @@
 </p>
  -->
  # Welcome to Ankster's Github!
- <input type="text" value="visitor"/>
  <p align="center"> 
   <img src="https://profile-counter.glitch.me/ElegantAnkster/count.svg" />
 </p>
