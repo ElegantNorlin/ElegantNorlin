@@ -5,7 +5,7 @@
   <br> 
 </p>
  -->
- # Welcome to Ankster's Github!
+ # Welcome to Norlin's Github!
  <p align="center"> 
   <img src="https://profile-counter.glitch.me/ElegantAnkster/count.svg" />
 </p>
