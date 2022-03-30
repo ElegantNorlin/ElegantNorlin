@@ -1,4 +1,4 @@
-# _Welcome to Norlin's Github!_
+<!-- # _Welcome to Norlin's Github!_ -->
 <!--  <p align="center"> 
   <img src="https://profile-counter.glitch.me/ElegantAnkster/count.svg" />
 </p>
@@ -12,4 +12,7 @@
   </a> 
 </p> 
 </details> -->
+
+<iframe   src="https://github.com/ElegantNorlin/ElegantNorlin/blob/main/README.md" width="" height=""   frameborder="1/0"  name="iframe名称"     scrolling="yes/no/auto">   
+</iframe>
     
