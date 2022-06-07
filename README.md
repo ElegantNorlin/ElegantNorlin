@@ -2,7 +2,7 @@
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/ElegantNorlin/count.svg" />
 </p>
-<details> <details>
+<details>
 <summary> 🧑🏻‍💻 <b>My Github Stats</b>: </summary>
 <br>
 <p align = "center">  
