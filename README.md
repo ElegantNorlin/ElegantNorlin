@@ -3,7 +3,7 @@
   <img src="https://profile-counter.glitch.me/ElegantNorlin/count.svg" />
 </p>
 <details> <details>
-<summary> 🙋‍♀️ <b>My Github Stats</b>: </summary>
+<summary> 🧑🏻‍💻 <b>My Github Stats</b>: </summary>
 <br>
 <p align = "center">  
    <a href="https://https://github.com/ElegantNorlin" class="rich-diff-level-one">
